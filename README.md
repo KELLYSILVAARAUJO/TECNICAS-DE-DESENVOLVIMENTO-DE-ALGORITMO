@@ -1,4 +1,4 @@
-# Técnicas de Desenvolvimento de Algoritmos - [Seu Nome]
+# Técnicas de Desenvolvimento de Algoritmos - [Kelly Araujo]
 
 Bem-vindo(a) ao meu repositório para a disciplina de **Técnicas de Desenvolvimento de Algoritmos**! Este espaço foi criado para armazenar e organizar todos os projetos, exercícios e anotações relacionados ao curso.
 
