@@ -55,4 +55,4 @@ Os projetos foram desenvolvidos principalmente utilizando a linguagem de program
 
 * **Nome:** [Kelly da Silva Araujo]
 * **GitHub:** [Link para seu perfil do GitHub]
-* **E-mail:** [kellyaraujo2603@gmail.com]
+* **E-mail:** kellyaraujo2603@gmail.com
