@@ -46,7 +46,7 @@ Para explorar o conteúdo, basta navegar pelas pastas. Se você for um colega de
 Os projetos foram desenvolvidos principalmente utilizando a linguagem de programação **Python**.
 
 * **Linguagem de Programação:** Python
-* **IDE:** Visual Studio Code
+* **IDE:** Visual Studio Code e Google Colab
 * **Gerenciamento de Versão:** Git e GitHub
 
 ---
