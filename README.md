@@ -54,5 +54,5 @@ Os projetos foram desenvolvidos principalmente utilizando a linguagem de program
 ### Contato
 
 * **Nome:** Kelly da Silva Araujo
-* **GitHub:** [Link para seu perfil do GitHub]
+* **GitHub:** https://github.com/KELLYSILVAARAUJO
 * **E-mail:** kellyaraujo2603@gmail.com
